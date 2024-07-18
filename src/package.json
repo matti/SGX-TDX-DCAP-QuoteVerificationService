@@ -27,7 +27,7 @@
         "safe-buffer": "^5.2.1",
         "serialize-error": "^8.1.0",
         "uuid-random": "^1.3.2",
-        "validator": "^13.9.0",
+        "validator": "^13.12.0",
         "z-schema": "^6.0.1"
     },
     "devDependencies": {
